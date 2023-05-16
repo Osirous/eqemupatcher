@@ -1,1 +1,1 @@
-nektulous.eqg
+nektulos.eqg
